@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 474a73983359bfd43b76a7f702d41a6b
+timeCreated: 1462242068
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B_bone
+    100002: //RootNode
+    100004: biker
+    100006: biker_Armature
+    100008: Body
+    100010: Body_2
+    100012: Bone.002
+    100014: fingers.L
+    100016: fingers.R
+    100018: fingers_2.L
+    100020: fingers_2.L_end
+    100022: fingers_2.R
+    100024: fingers_2.R_end
+    100026: fingers_B.L
+    100028: fingers_B.L_end
+    100030: fingers_B.R
+    100032: fingers_B.R_end
+    100034: foot.L
+    100036: foot.L.001
+    100038: foot.L.001_end
+    100040: foot.L_end
+    100042: foot.R
+    100044: foot.R.001
+    100046: foot.R.001_end
+    100048: foot.R_end
+    100050: General
+    100052: H.L
+    100054: H.R
+    100056: hand.L
+    100058: hand.R
+    100060: hand_2.L
+    100062: hand_2.R
+    100064: head
+    100066: IK.L
+    100068: ik.L
+    100070: IK.L_end
+    100072: IK.R
+    100074: ik.R
+    100076: IK.R_end
+    100078: leg.L
+    100080: leg.R
+    100082: mouth
+    100084: mouth_end
+    100086: ring
+    100088: ring_end
+    100090: shin.L
+    100092: shin.R
+    100094: B_bone 1
+    100096: biker.001
+    100098: biker_Armature.001
+    100100: Body 1
+    100102: Body_2 1
+    100104: body_car
+    100106: Bone.002 1
+    100108: car
+    100110: car_Armature
+    100112: fingers.L 1
+    100114: fingers.R 1
+    100116: fingers_2.L 1
+    100118: fingers_2.L_end 1
+    100120: fingers_2.R 1
+    100122: fingers_2.R_end 1
+    100124: fingers_B.L 1
+    100126: fingers_B.L_end 1
+    100128: fingers_B.R 1
+    100130: fingers_B.R_end 1
+    100132: foot.L 1
+    100134: foot.L.001 1
+    100136: foot.L.001_end 1
+    100138: foot.L_end 1
+    100140: foot.R 1
+    100142: foot.R.001 1
+    100144: foot.R.001_end 1
+    100146: foot.R_end 1
+    100148: General 1
+    100150: H.L 1
+    100152: H.R 1
+    100154: hand.L 1
+    100156: hand.R 1
+    100158: hand_2.L 1
+    100160: hand_2.R 1
+    100162: head 1
+    100164: IK.L 1
+    100166: ik.L 1
+    100168: IK.L_end 1
+    100170: IK.R 1
+    100172: ik.R 1
+    100174: IK.R_end 1
+    100176: leg.L 1
+    100178: leg.R 1
+    100180: mouth 1
+    100182: mouth_end 1
+    100184: ring 1
+    100186: ring_end 1
+    100188: shin.L 1
+    100190: shin.R 1
+    100192: w_1.L
+    100194: w_1.L_end
+    100196: w_1.R
+    100198: w_1.R_end
+    100200: w_2.L
+    100202: w_2.L_end
+    100204: w_2.R
+    100206: w_2.R_end
+    100208: wL
+    100210: wL1
+    100212: wR
+    100214: wR1
+    400000: B_bone
+    400002: //RootNode
+    400004: biker
+    400006: biker_Armature
+    400008: Body
+    400010: Body_2
+    400012: Bone.002
+    400014: fingers.L
+    400016: fingers.R
+    400018: fingers_2.L
+    400020: fingers_2.L_end
+    400022: fingers_2.R
+    400024: fingers_2.R_end
+    400026: fingers_B.L
+    400028: fingers_B.L_end
+    400030: fingers_B.R
+    400032: fingers_B.R_end
+    400034: foot.L
+    400036: foot.L.001
+    400038: foot.L.001_end
+    400040: foot.L_end
+    400042: foot.R
+    400044: foot.R.001
+    400046: foot.R.001_end
+    400048: foot.R_end
+    400050: General
+    400052: H.L
+    400054: H.R
+    400056: hand.L
+    400058: hand.R
+    400060: hand_2.L
+    400062: hand_2.R
+    400064: head
+    400066: IK.L
+    400068: ik.L
+    400070: IK.L_end
+    400072: IK.R
+    400074: ik.R
+    400076: IK.R_end
+    400078: leg.L
+    400080: leg.R
+    400082: mouth
+    400084: mouth_end
+    400086: ring
+    400088: ring_end
+    400090: shin.L
+    400092: shin.R
+    400094: B_bone 1
+    400096: biker.001
+    400098: biker_Armature.001
+    400100: Body 1
+    400102: Body_2 1
+    400104: body_car
+    400106: Bone.002 1
+    400108: car
+    400110: car_Armature
+    400112: fingers.L 1
+    400114: fingers.R 1
+    400116: fingers_2.L 1
+    400118: fingers_2.L_end 1
+    400120: fingers_2.R 1
+    400122: fingers_2.R_end 1
+    400124: fingers_B.L 1
+    400126: fingers_B.L_end 1
+    400128: fingers_B.R 1
+    400130: fingers_B.R_end 1
+    400132: foot.L 1
+    400134: foot.L.001 1
+    400136: foot.L.001_end 1
+    400138: foot.L_end 1
+    400140: foot.R 1
+    400142: foot.R.001 1
+    400144: foot.R.001_end 1
+    400146: foot.R_end 1
+    400148: General 1
+    400150: H.L 1
+    400152: H.R 1
+    400154: hand.L 1
+    400156: hand.R 1
+    400158: hand_2.L 1
+    400160: hand_2.R 1
+    400162: head 1
+    400164: IK.L 1
+    400166: ik.L 1
+    400168: IK.L_end 1
+    400170: IK.R 1
+    400172: ik.R 1
+    400174: IK.R_end 1
+    400176: leg.L 1
+    400178: leg.R 1
+    400180: mouth 1
+    400182: mouth_end 1
+    400184: ring 1
+    400186: ring_end 1
+    400188: shin.L 1
+    400190: shin.R 1
+    400192: w_1.L
+    400194: w_1.L_end
+    400196: w_1.R
+    400198: w_1.R_end
+    400200: w_2.L
+    400202: w_2.L_end
+    400204: w_2.R
+    400206: w_2.R_end
+    400208: wL
+    400210: wL1
+    400212: wR
+    400214: wR1
+    4300000: biker
+    4300002: biker.001
+    4300004: wR
+    4300006: wR1
+    4300008: wL
+    4300010: car
+    4300012: wL1
+    7400000: biker_Armature|Car_Ralli
+    7400002: biker_Armature|Mu_car
+    7400004: biker_Armature.001|Mu_car.001
+    7400006: biker_Armature|rotate
+    9500000: //RootNode
+    13700000: biker
+    13700002: biker.001
+    13700004: car
+    13700006: wL
+    13700008: wL1
+    13700010: wR
+    13700012: wR1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

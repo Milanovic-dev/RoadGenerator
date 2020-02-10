@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 27257d229d8bd5247abf7a90bb751291
+timeCreated: 1462243744
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body_car
+    100002: //RootNode
+    100004: jeep_1
+    100006: jeep_Armature
+    100008: jeep_w1.L
+    100010: jeep_w1.R
+    100012: jeep_w2.L
+    100014: jeep_w2.R
+    100016: w_1.L
+    100018: w_1.L_end
+    100020: w_1.R
+    100022: w_1.R_end
+    100024: w_2.L
+    100026: w_2.L_end
+    100028: w_2.R
+    100030: w_2.R_end
+    100032: jeep
+    400000: body_car
+    400002: //RootNode
+    400004: jeep_1
+    400006: jeep_Armature
+    400008: jeep_w1.L
+    400010: jeep_w1.R
+    400012: jeep_w2.L
+    400014: jeep_w2.R
+    400016: w_1.L
+    400018: w_1.L_end
+    400020: w_1.R
+    400022: w_1.R_end
+    400024: w_2.L
+    400026: w_2.L_end
+    400028: w_2.R
+    400030: w_2.R_end
+    400032: jeep
+    4300000: jeep_w2.R
+    4300002: jeep_w2.L
+    4300004: jeep_w1.R
+    4300006: jeep_w1.L
+    4300008: jeep_1
+    4300010: jeep
+    9500000: //RootNode
+    13700000: jeep_1
+    13700002: jeep_w1.L
+    13700004: jeep_w1.R
+    13700006: jeep_w2.L
+    13700008: jeep_w2.R
+    13700010: jeep
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
